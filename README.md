@@ -4,7 +4,7 @@
 A comparative analysis of machine learning and deep learning models for SMS spam detection using BERT embeddings to improve contextual understanding and classification performance.
 
 ## Block Diagram
-![Block Diagram](docs/block_diagram.png)
+![Block Diagram](docs/block_diagram.jpeg)
 
 The system follows a pipeline of data collection, preprocessing, BERT-based feature extraction, model training, and performance evaluation.
 
@@ -15,8 +15,8 @@ The system follows a pipeline of data collection, preprocessing, BERT-based feat
 - Evaluates using Accuracy, Precision, Recall, F1-score, ROC-AUC, and Brier Score
 
 ## Results Visualization
-![Performance Comparison](docs/performance_chart.png)
-![ROC Curve](docs/roc_curve.png)
+![Performance Comparison](docs/performance_chart.jpeg)
+![ROC Curve](docs/roc_curve.jpeg)
 
 ## Results Summary
 - Best Model: LSTM
