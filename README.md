@@ -51,5 +51,19 @@ The system follows a pipeline of data collection, preprocessing, BERT-based feat
 - Hybrid models combining LSTM and Transformer
 - Integration of Explainable AI (XAI)
 - Deployment in real-time systems
+## 📜 License
 
-## Repository Structure
+This project is licensed under the **MIT License**.
+
+---
+
+## 🙌 Acknowledgment
+
+Developed as part of **GEN-AI**  
+KLE Technological University
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
